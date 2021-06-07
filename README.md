@@ -7,7 +7,7 @@
   
 </p>
 
-17 | Full stack developer | enthusiastic about open-source 🚀| Trainer | Traveller 🛫
+Full stack developer | enthusiastic about open-source 🚀| Trainer | Traveller 🛫
 
 - 🌱 I’m currently working on **Reactnative, watermelondb and nodejs etc.**
 
